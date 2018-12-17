@@ -6,5 +6,6 @@ public class AppTest {
 	public void firstTest() {
 		System.out.println("From 1");
 		System.out.println("From 111");
+		System.out.println("From 1111");
 	}
 }
